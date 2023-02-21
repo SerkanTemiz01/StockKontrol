@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.API\\wwwroot\\Upload\\cv3.png",
+      "PackagePath": "staticwebassets\\Upload\\cv3.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StockControlProject.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StockControlProject.API.props",
+      "PackagePath": "build\\StockControlProject.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StockControlProject.API.props",
+      "PackagePath": "buildMultiTargeting\\StockControlProject.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StockControlProject.API.props",
+      "PackagePath": "buildTransitive\\StockControlProject.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

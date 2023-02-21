@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "3Va+fJygGp81FlWiNNjKxy3A6Xce4fZ1RJK8B1RQOPw=",
+  "Source": "StockControlProject.API",
+  "BasePath": "_content/StockControlProject.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockControlProject.API\\wwwroot",
+      "Source": "StockControlProject.API",
+      "ContentRoot": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.API\\wwwroot\\",
+      "BasePath": "_content/StockControlProject.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.API\\wwwroot\\Upload\\cv3.png",
+      "SourceId": "StockControlProject.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.API\\wwwroot\\",
+      "BasePath": "_content/StockControlProject.API",
+      "RelativePath": "Upload/cv3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\cv3.png"
+    }
+  ]
+}

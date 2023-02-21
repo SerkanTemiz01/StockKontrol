@@ -1,0 +1,83 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "UpdateCategory";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="animated fadeIn">
+    <div class="row">
+        <div class="offset-3 col-lg-6">
+            <div class="card">
+                <div class="card-header text-center">
+                    <strong class="card-title text-center">Kategori Ekle</strong>
+                </div>
+                <div class="card-body">
+                    <!-- Category -->
+                    <div id="pay-invoice">
+                        <div class="card-body">
+
+                            <form asp-action="UpdateProduct">
+                                <input type="hidden" asp-for="AddedDate" class="form-control" />
+                                <input type="hidden" asp-for="ID" class="form-control" />
+                                <input type="hidden" asp-for="IsActive" class="form-control" />
+
+                                <div class="form-group">
+                                    <label asp-for="ProductName" class="control-label mb-1">Ürün Adı</label>
+                                    <input asp-for="ProductName" type="text" class="form-control" aria-required="true" aria-invalid="false" data-val-required="Lütfen kategori adı giriniz..">
+                                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="UnitPrice" class="control-label mb-1">Ürün Stok Miktarı</label>
+                                    <input asp-for="UnitPrice" type="number" class="form-control" aria-required="true" aria-invalid="false" data-val-required="Lütfen ürün fiyatı giriniz..">
+                                    <span asp-validation-for="UnitPrice" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Stock" class="control-label mb-1">Ürün Birim Fiyat Miktarı</label>
+                                    <input asp-for="Stock" type="number" class="form-control" aria-required="true" aria-invalid="false" data-val-required="Lütfen ürün stok bilgisi giriniz..">
+                                    <span asp-validation-for="Stock" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="ExpireDate" class="control-label mb-1">Son kullanma Tarihi</label>
+                                    <input asp-for="ExpireDate" type="date" class="form-control" aria-required="true" aria-invalid="false" data-val-required="Son kullanma tarihi giriniz.">
+                                    <span asp-validation-for="ExpireDate" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="CategoryID" class="control-label mb-1">Kategori</label>
+                                    <select asp-for="CategoryID" asp-items="@ViewBag.AktifKategoriler" class="form-control" aria-required="true" aria-invalid="false">
+                                        <option>Kategori Seçiniz</option>
+                                    </select>
+                                    <span asp-validation-for="CategoryID" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="SupplierID" class="control-label mb-1">Tedarikçi</label>
+                                    <select asp-for="SupplierID" asp-items="@ViewBag.AktifTedarikciler" class="form-control" aria-required="true" aria-invalid="false">
+                                        <option>Tedarikçi Seçiniz</option>
+                                    </select>
+                                    <span asp-validation-for="SupplierID" class="text-danger"></span>
+                                </div>
+                                <div>
+                                    <button id="payment-button" type="submit" class="btn btn-lg btn-info btn-block">
+                                        <i class="fa fa-plus fa-lg"></i>&nbsp;
+                                        <span id="payment-button-amount">Kategori Güncelle</span>
+                                        <span id="payment-button-sending" style="display:none;">Sending…</span>
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div> <!-- .card -->
+
+        </div><!--/.col-->
+
+
+
+
+    </div>
+
+
+</div><!-- .animated -->

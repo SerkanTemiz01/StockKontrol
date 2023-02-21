@@ -1,0 +1,35 @@
+﻿@model StockControlProject.Domain.Entities.Category
+
+@{
+    ViewData["Title"] = "UpdateCategory";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-lg-6 col-md-9 col-sm-12">
+    <div class="card">
+        <div class="card-header">
+            <strong>Kategori Güncelleme</strong><p>Formu</p>
+        </div>
+        <div class="card-body card-block">
+            <form asp-action="UpdateCategory">
+                 <input type="hidden" asp-for="AddedDate" class="form-control" />
+                 <input type="hidden" asp-for="ID" class="form-control" />
+                 <input type="hidden" asp-for="IsActive" class="form-control" />
+                <div class="has-success form-group">
+                    <label class="form-control-label">Kategori Adı</label>
+                    <input type="text" asp-for="CategoryName" class="is-valid form-control-success form-control">
+                    <span asp-validation-for="CategoryName" class="text-danger"></span>
+                </div>
+                <div class="has-warning form-group">
+                    <label class=" form-control-label">Açıklama</label>
+                    <textarea asp-for="Description" id="textarea-input" rows="9" class="form-control"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+               
+            <div class="form-group">
+                <input type="submit" value="Güncelle" class="btn btn-primary" />
+            </div>
+            </form>
+        </div>
+    </div>
+</div>
