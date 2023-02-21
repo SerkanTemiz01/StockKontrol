@@ -10157,11 +10157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\StockControlProject.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\StockControlProject.WebUI.csproj",
       "projectName": "StockControlProject.WebUI",
-      "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\StockControlProject.WebUI.csproj",
+      "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\StockControlProject.WebUI.csproj",
       "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10182,8 +10182,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.Domain\\StockControlProject.Domain.csproj": {
-              "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.Domain\\StockControlProject.Domain.csproj"
+            "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.Domain\\StockControlProject.Domain.csproj": {
+              "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.Domain\\StockControlProject.Domain.csproj"
             }
           }
         }

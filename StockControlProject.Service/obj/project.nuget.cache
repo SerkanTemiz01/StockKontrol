@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mt9yGQ1I7mwwwL3Hqw9ReJHgCPwQIxzl/j+SxURyDJk74CnwTP5f6nzdloVQWtLAJNrT3sHXLNHu1fbUVrQd5w==",
+  "dgSpecHash": "k81yWT5ZlQTrXlZXwnpz5KCzhpZFEcswg9zy8HDJ99gPzFUFSV7NX7Mgfys4iX3fbFI6qlAgoA3wRHgpH3qIlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.Service\\StockControlProject.Service.csproj",
+  "projectFilePath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.Service\\StockControlProject.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serka\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\serka\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

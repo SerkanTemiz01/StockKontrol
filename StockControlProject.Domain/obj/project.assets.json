@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.Domain\\StockControlProject.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.Domain\\StockControlProject.Domain.csproj",
       "projectName": "StockControlProject.Domain",
-      "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.Domain\\StockControlProject.Domain.csproj",
+      "projectPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.Domain\\StockControlProject.Domain.csproj",
       "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.Domain\\obj\\",
+      "outputPath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

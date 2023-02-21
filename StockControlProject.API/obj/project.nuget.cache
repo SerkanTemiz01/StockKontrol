@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5IESxq5F0vhhEpYisjegFaUyd9lDCBa1gaQAVqlr/FqJgKyqKXOrbEh41OK682i3z3d3PpREwirLsIsH8BHcBg==",
+  "dgSpecHash": "VpuOxZedP6/HlPcJpSqmYonmarWRX6W1/SdwCwzhcuU/FoRuwktNFYuTXIBHrEaf3UBmIRMOdjHWBlajaEPYZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.API\\StockControlProject.API.csproj",
+  "projectFilePath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.API\\StockControlProject.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serka\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\serka\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.13\\microsoft.aspnetcore.jsonpatch.6.0.13.nupkg.sha512",

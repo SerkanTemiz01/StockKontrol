@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rLDtVafKMFuuEdGEUHB2Tu7GafgdSuh+I1FBUd3GRZQnqT3hs07kXbHWVfIh5RoM5laGo28DUWGTwhrqSPvU7g==",
+  "dgSpecHash": "kOA+NUOi+/5fRNDwXcYIh0qBxMAp+Zn9TtfxK/BjWBlcpEOwp24CJOsMLWsZ8r/LRhy9vHx9qHsaRkssZ69UBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\StockControlProject.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\StockControlProject.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serka\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\serka\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

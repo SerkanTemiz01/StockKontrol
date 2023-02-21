@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5CJ59hF8Md/ZwzAs3xYz9N1eFZJUat8STNG495CqU/yjdfwP6zL6tExE7oieR5XRUbebAVtSxFv1cdn0XZSmQw==",
+  "dgSpecHash": "45FfPRC6B45NmV2G8cDP/XFafqqI/x+uEM1QXH5P9qTMg4ukxoUgYeFzBS+9iddghcZvQneO9PaQn/U6Gkxinw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.Repository\\StockControlProject.Repository.csproj",
+  "projectFilePath": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.Repository\\StockControlProject.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serka\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\serka\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
