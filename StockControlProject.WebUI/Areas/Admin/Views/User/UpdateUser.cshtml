@@ -12,7 +12,7 @@
         <div class="offset-3 col-lg-6">
             <div class="card">
                 <div class="card-header text-center">
-                    <strong class="card-title text-center">Tedarikçi Güncelleme</strong>
+                    <strong class="card-title text-center">Kullanıcı Güncelleme</strong>
                 </div>
                 <div class="card-body">
                     <!-- User -->
@@ -25,6 +25,11 @@
                                     <label asp-for="FirstName" class="control-label mb-1"></label>
                                     <input asp-for="FirstName" class="form-control" />
                                     <span asp-validation-for="FirstName" class="text-danger"></span>
+                                </div>
+                                    <div class="form-group">
+                                <label asp-for="LastName" class="control-label mb-1"></label>
+                                    <input asp-for="LastName" class="form-control" />
+                                    <span asp-validation-for="LastName" class="text-danger"></span>
                                 </div>
                                 <div class="form-group">
                                     <label asp-for="Address" class="control-label mb-1"></label>
@@ -41,11 +46,15 @@
                                     <input asp-for="Email" type="email" class="form-control" />
                                     <span asp-validation-for="Email" class="text-danger"></span>
                                 </div>
-
+                                    <div class="form-group">
+                                    <label asp-for="Role" class="control-label mb-1"></label>
+                                    <select asp-for="Role" class="form-control" asp-items="@Enum.GetValues(typeof(UserRole)).Cast<UserRole>().Select(d => new SelectListItem { Text = d.ToString(), Value = ((int)d).ToString() })" ></select>
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
                                 <div>
                                     <button id="payment-button" type="submit" class="btn btn-lg btn-info btn-block">
                                         <i class="fa fa-plus fa-lg"></i>&nbsp;
-                                        <span id="payment-button-amount">Tedarikçi Güncelle</span>
+                                        <span id="payment-button-amount">Kullanıcı Güncelle</span>
                                         <span id="payment-button-sending" style="display:none;">Sending…</span>
                                     </button>
                                 </div>

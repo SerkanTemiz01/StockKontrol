@@ -60,7 +60,7 @@ namespace StockControlProject.WebUI.Areas.Admin.Controllers
             }
 
         }
-        User updatedUser;
+        static User updatedUser;
         [HttpPost]
         public async Task<IActionResult> UpdateUser(User guncelKullanici)
         {
