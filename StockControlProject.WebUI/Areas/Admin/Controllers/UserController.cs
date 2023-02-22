@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using StockControlProject.Domain.Entities;
+using StockControlProject.WebUI.Models;
 
 namespace StockControlProject.WebUI.Areas.Admin.Controllers
 {
@@ -8,6 +9,13 @@ namespace StockControlProject.WebUI.Areas.Admin.Controllers
     public class UserController : Controller
     {
         string uri = "https://localhost:7291";
+        private readonly IWebHostEnvironment _environment;
+
+        public UserController(IWebHostEnvironment environment)
+        {
+            _environment = environment;
+        }
+
         public async Task<IActionResult> Index()
         {
 
@@ -62,8 +70,28 @@ namespace StockControlProject.WebUI.Areas.Admin.Controllers
         }
         static User updatedUser;
         [HttpPost]
-        public async Task<IActionResult> UpdateUser(User guncelKullanici)
+        public async Task<IActionResult> UpdateUser(User guncelKullanici,List<IFormFile> files)
         {
+            if(files.Count == 0)
+            {
+                guncelKullanici.PhotoURL = updatedUser.PhotoURL;
+            }
+            else
+            {
+                string returnedMessage = Upload.ImageUpload(files, _environment, out bool imgResult);
+                if (imgResult)
+                {
+                    guncelKullanici.PhotoURL = returnedMessage;
+                }
+                else
+                {
+                    ViewBag.Message = returnedMessage;
+                    return View(guncelKullanici);
+                }
+                
+            }
+
+           
             using (var httpClient = new HttpClient())
             {
                 guncelKullanici.AddedDate=updatedUser.AddedDate;
@@ -87,9 +115,21 @@ namespace StockControlProject.WebUI.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> AddUser(User user,IFormFile formFile)
+        public async Task<IActionResult> AddUser(User user,List<IFormFile> files)
         {
             user.IsActive = true;
+            string imgPath = Upload.ImageUpload(files, _environment, out bool imgResult);
+
+            if(imgResult)
+            {
+                user.PhotoURL = imgPath;
+            }
+            else
+            {
+                ViewBag.Message = imgPath;
+                return View(user);
+            }
+
             using (var httpClient = new HttpClient())
             {
                 using (var cevap = await httpClient.PostAsJsonAsync($"{uri}/api/User/KullaniciEkle", user))

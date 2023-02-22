@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\StockControlProject.WebUI.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\Uploads\\33a6cf04_fbd3_45db_bfe2_4a3b9f123298.png",
+      "PackagePath": "staticwebassets\\Uploads\\33a6cf04_fbd3_45db_bfe2_4a3b9f123298.png"
+    },
+    {
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\Uploads\\d9d157ad_9d83_4b69_9756_da368c38a61d.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\d9d157ad_9d83_4b69_9756_da368c38a61d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\Uploads\\e5736aae_cd77_4943_a23a_89f86bce21d3.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\e5736aae_cd77_4943_a23a_89f86bce21d3.jpeg"
+    },
+    {
       "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

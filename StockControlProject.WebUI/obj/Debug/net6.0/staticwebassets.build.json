@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eV/J7wJDHiW0EsAHQm/vZDdnBdg0qU3CP6YkkDBMNGc=",
+  "Hash": "8LzVgOKUaFZg2oJ8dAcchdSpk3OMXh1Dpl6N17QNsyw=",
   "Source": "StockControlProject.WebUI",
   "BasePath": "_content/StockControlProject.WebUI",
   "Mode": "Default",
@@ -2854,6 +2854,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\template\\widgets.html"
+    },
+    {
+      "Identity": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\Uploads\\33a6cf04_fbd3_45db_bfe2_4a3b9f123298.png",
+      "SourceId": "StockControlProject.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\",
+      "BasePath": "_content/StockControlProject.WebUI",
+      "RelativePath": "Uploads/33a6cf04_fbd3_45db_bfe2_4a3b9f123298.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\33a6cf04_fbd3_45db_bfe2_4a3b9f123298.png"
+    },
+    {
+      "Identity": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\Uploads\\d9d157ad_9d83_4b69_9756_da368c38a61d.jpeg",
+      "SourceId": "StockControlProject.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\",
+      "BasePath": "_content/StockControlProject.WebUI",
+      "RelativePath": "Uploads/d9d157ad_9d83_4b69_9756_da368c38a61d.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\d9d157ad_9d83_4b69_9756_da368c38a61d.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\Uploads\\e5736aae_cd77_4943_a23a_89f86bce21d3.jpeg",
+      "SourceId": "StockControlProject.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\",
+      "BasePath": "_content/StockControlProject.WebUI",
+      "RelativePath": "Uploads/e5736aae_cd77_4943_a23a_89f86bce21d3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\e5736aae_cd77_4943_a23a_89f86bce21d3.jpeg"
     }
   ]
 }
