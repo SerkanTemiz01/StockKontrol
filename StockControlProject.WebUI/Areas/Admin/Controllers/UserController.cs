@@ -5,41 +5,41 @@ using StockControlProject.Domain.Entities;
 namespace StockControlProject.WebUI.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class SupplierController : Controller
+    public class UserController : Controller
     {
         string uri = "https://localhost:7291";
         public async Task<IActionResult> Index()
         {
-            
-            List<Supplier> Tedarikciler = new List<Supplier>();
+
+            List<User> kullaniciler = new List<User>();
             using (var httpClient = new HttpClient())
             {
-                using (var cevap = await httpClient.GetAsync($"{uri}/api/Supplier/TumTedarikcileriGetir"))
+                using (var cevap = await httpClient.GetAsync($"{uri}/api/User/TumKullanicileriGetir"))
                 {
                     string apiCevap = await cevap.Content.ReadAsStringAsync();
-                    Tedarikciler = JsonConvert.DeserializeObject<List<Supplier>>(apiCevap);
+                    kullaniciler = JsonConvert.DeserializeObject<List<User>>(apiCevap);
                 }
             }
-            return View(Tedarikciler);
+            return View(kullaniciler);
         }
-        public async Task<IActionResult> ActivateSupplier(int id)
+        public async Task<IActionResult> ActivateUser(int id)
         {
             using (var httpClient = new HttpClient())
             {
-                using (var cevap = await httpClient.GetAsync($"{uri}/api/Supplier/TedarikciAktivate/{id}"))
+                using (var cevap = await httpClient.GetAsync($"{uri}/api/User/KullaniciAktivate/{id}"))
                 {
 
                 }
             }
             return RedirectToAction("Index");
         }
-        public async Task<IActionResult> DeleteSupplier(int id)
+        public async Task<IActionResult> DeleteUser(int id)
         {
 
 
             using (var httpClient = new HttpClient())
             {
-                using (var cevap = await httpClient.DeleteAsync($"{uri}/api/Supplier/TedarikciSil/{id}"))
+                using (var cevap = await httpClient.DeleteAsync($"{uri}/api/User/KullaniciSil/{id}"))
                 {
 
                 }
@@ -47,55 +47,59 @@ namespace StockControlProject.WebUI.Areas.Admin.Controllers
             return RedirectToAction("Index");
         }
         [HttpGet]
-        public async Task<IActionResult> UpdateSupplier(int id)
+        public async Task<IActionResult> UpdateUser(int id)
         {
             using (var httpClient = new HttpClient())
             {
-                using (var cevap = await httpClient.GetAsync($"{uri}/api/Supplier/IdyeGoreTedarikciGetir/{id}"))
+                using (var cevap = await httpClient.GetAsync($"{uri}/api/User/IdyeGoreKullaniciGetir/{id}"))
                 {
                     string apiCevap = await cevap.Content.ReadAsStringAsync();
-                    Supplier güncellenecekTedarikci = JsonConvert.DeserializeObject<Supplier>(apiCevap);
-                    return View(güncellenecekTedarikci);
+                    updatedUser = JsonConvert.DeserializeObject<User>(apiCevap);
+                    return View(updatedUser);
                 }
             }
 
         }
+        User updatedUser;
         [HttpPost]
-        public async Task<IActionResult> UpdateSupplier(Supplier supplier)
+        public async Task<IActionResult> UpdateUser(User guncelKullanici)
         {
             using (var httpClient = new HttpClient())
             {
+                guncelKullanici.AddedDate=updatedUser.AddedDate;
+                guncelKullanici.IsActive = updatedUser.IsActive;
+                guncelKullanici.Password=updatedUser.Password;
 
-                using (var cevap = await httpClient.PutAsJsonAsync($"{uri}/api/Supplier/TedarikciGuncelle/{supplier.ID}", supplier))
+                using (var cevap = await httpClient.PutAsJsonAsync($"{uri}/api/User/KullaniciGuncelle/{guncelKullanici.ID}", guncelKullanici))
                 {
                     if (cevap.IsSuccessStatusCode)
                     {
                         return RedirectToAction(nameof(Index));
                     }
                     else
-                        return View(supplier);
+                        return View(guncelKullanici);
                 }
             }
         }
         [HttpGet]
-        public async Task<IActionResult> AddSupplier()
+        public async Task<IActionResult> AddUser()
         {
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> AddSupplier(Supplier supplier)
+        public async Task<IActionResult> AddUser(User user,IFormFile formFile)
         {
-            supplier.IsActive = true;
+            user.IsActive = true;
             using (var httpClient = new HttpClient())
             {
-                using (var cevap = await httpClient.PostAsJsonAsync($"{uri}/api/Supplier/TedarikciEkle", supplier))
+                using (var cevap = await httpClient.PostAsJsonAsync($"{uri}/api/User/KullaniciEkle", user))
                 {
                     if (cevap.IsSuccessStatusCode)
                     {
                         return RedirectToAction(nameof(Index));
                     }
                     else
-                        return View(supplier);
+                        return View(user);
                 }
             }
         }

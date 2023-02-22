@@ -1,667 +1,667 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StockControlProject.WebUI.bundle.scp.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StockControlProject.WebUI.bundle.scp.css",
       "PackagePath": "staticwebassets\\StockControlProject.WebUI.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\.gitignore",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\.gitignore",
       "PackagePath": "staticwebassets\\images\\.gitignore"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\admin.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\admin.jpg",
       "PackagePath": "staticwebassets\\images\\admin.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\1.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\1.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\2.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\2.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\3.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\3.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\4.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\4.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\5.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\5.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\6.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\6.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\64-1.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\64-1.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\64-1.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\64-2.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\avatar\\64-2.jpg",
       "PackagePath": "staticwebassets\\images\\avatar\\64-2.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\favicon.png",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\logo.psd",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\logo.psd",
       "PackagePath": "staticwebassets\\images\\logo.psd"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\logo2.png",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\images\\logo2.png",
       "PackagePath": "staticwebassets\\images\\logo2.png"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\cs-skin-elastic.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\cs-skin-elastic.css",
       "PackagePath": "staticwebassets\\template\\assets\\css\\cs-skin-elastic.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\chosen\\chosen-sprite.png",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\chosen\\chosen-sprite.png",
       "PackagePath": "staticwebassets\\template\\assets\\css\\lib\\chosen\\chosen-sprite.png"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png",
       "PackagePath": "staticwebassets\\template\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\chosen\\chosen.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\chosen\\chosen.css",
       "PackagePath": "staticwebassets\\template\\assets\\css\\lib\\chosen\\chosen.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\chosen\\chosen.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\chosen\\chosen.min.css",
       "PackagePath": "staticwebassets\\template\\assets\\css\\lib\\chosen\\chosen.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css",
       "PackagePath": "staticwebassets\\template\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css",
       "PackagePath": "staticwebassets\\template\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
       "PackagePath": "staticwebassets\\template\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\vector-map\\jqvmap.min.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\lib\\vector-map\\jqvmap.min.css",
       "PackagePath": "staticwebassets\\template\\assets\\css\\lib\\vector-map\\jqvmap.min.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\style.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\template\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\style.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\css\\style.css.map",
       "PackagePath": "staticwebassets\\template\\assets\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\fonts\\icomoon\\icomoon.eot",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\fonts\\icomoon\\icomoon.eot",
       "PackagePath": "staticwebassets\\template\\assets\\fonts\\icomoon\\icomoon.eot"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\fonts\\icomoon\\icomoon.svg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\fonts\\icomoon\\icomoon.svg",
       "PackagePath": "staticwebassets\\template\\assets\\fonts\\icomoon\\icomoon.svg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\fonts\\icomoon\\icomoon.ttf",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\fonts\\icomoon\\icomoon.ttf",
       "PackagePath": "staticwebassets\\template\\assets\\fonts\\icomoon\\icomoon.ttf"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\fonts\\icomoon\\icomoon.woff",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\fonts\\icomoon\\icomoon.woff",
       "PackagePath": "staticwebassets\\template\\assets\\fonts\\icomoon\\icomoon.woff"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\fonts\\icomoon\\index.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\fonts\\icomoon\\index.html",
       "PackagePath": "staticwebassets\\template\\assets\\fonts\\icomoon\\index.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\dashboard.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\dashboard.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\chartjs-init.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\chartjs-init.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\init\\chartjs-init.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\datatables-init.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\datatables-init.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\init\\datatables-init.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\flot-chart-init.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\flot-chart-init.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\init\\flot-chart-init.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\fullcalendar-init.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\fullcalendar-init.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\init\\fullcalendar-init.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\gmap-init.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\gmap-init.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\init\\gmap-init.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\peitychart-init.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\peitychart-init.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\init\\peitychart-init.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\vector-init.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\vector-init.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\init\\vector-init.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\weather-init.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\init\\weather-init.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\init\\weather-init.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\chosen\\chosen.jquery.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\chosen\\chosen.jquery.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\chosen\\chosen.jquery.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\chosen\\chosen.jquery.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\chosen\\chosen.jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\chosen\\chosen.proto.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\chosen\\chosen.proto.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\chosen\\chosen.proto.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\chosen\\chosen.proto.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\chosen\\chosen.proto.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\chosen\\chosen.proto.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\buttons.colVis.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\buttons.colVis.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\buttons.flash.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\buttons.flash.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\buttons.flash.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\buttons.html5.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\buttons.html5.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\buttons.html5.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\buttons.print.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\buttons.print.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\buttons.print.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\datatables.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\datatables.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\datatables.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\jquery-1.12.4.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\jquery-1.12.4.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\jszip.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\jszip.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\jszip.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\pdfmake.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\pdfmake.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\pdfmake.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\vfs_fonts.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\data-table\\vfs_fonts.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\data-table\\vfs_fonts.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\gmap\\gmapApi.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\gmap\\gmapApi.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\gmap\\gmapApi.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\gmap\\gmaps.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\gmap\\gmaps.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\gmap\\gmaps.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\gmap\\gmaps.min.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\lib\\gmap\\gmaps.min.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\lib\\gmap\\gmaps.min.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\main.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\vmap.sampledata.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\vmap.sampledata.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\vmap.sampledata.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\widgets.js",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\js\\widgets.js",
       "PackagePath": "staticwebassets\\template\\assets\\js\\widgets.js"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\scss\\style.css",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\scss\\style.css",
       "PackagePath": "staticwebassets\\template\\assets\\scss\\style.css"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\scss\\style.css.map",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\scss\\style.css.map",
       "PackagePath": "staticwebassets\\template\\assets\\scss\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\scss\\style.scss",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\assets\\scss\\style.scss",
       "PackagePath": "staticwebassets\\template\\assets\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\charts-chartjs.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\charts-chartjs.html",
       "PackagePath": "staticwebassets\\template\\charts-chartjs.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\charts-flot.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\charts-flot.html",
       "PackagePath": "staticwebassets\\template\\charts-flot.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\charts-peity.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\charts-peity.html",
       "PackagePath": "staticwebassets\\template\\charts-peity.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\font-fontawesome.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\font-fontawesome.html",
       "PackagePath": "staticwebassets\\template\\font-fontawesome.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\font-themify.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\font-themify.html",
       "PackagePath": "staticwebassets\\template\\font-themify.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\forms-advanced.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\forms-advanced.html",
       "PackagePath": "staticwebassets\\template\\forms-advanced.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\forms-basic.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\forms-basic.html",
       "PackagePath": "staticwebassets\\template\\forms-basic.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\.gitignore",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\.gitignore",
       "PackagePath": "staticwebassets\\template\\images\\.gitignore"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\admin.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\admin.jpg",
       "PackagePath": "staticwebassets\\template\\images\\admin.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\1.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\1.jpg",
       "PackagePath": "staticwebassets\\template\\images\\avatar\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\2.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\2.jpg",
       "PackagePath": "staticwebassets\\template\\images\\avatar\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\3.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\3.jpg",
       "PackagePath": "staticwebassets\\template\\images\\avatar\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\4.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\4.jpg",
       "PackagePath": "staticwebassets\\template\\images\\avatar\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\5.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\5.jpg",
       "PackagePath": "staticwebassets\\template\\images\\avatar\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\6.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\6.jpg",
       "PackagePath": "staticwebassets\\template\\images\\avatar\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\64-1.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\64-1.jpg",
       "PackagePath": "staticwebassets\\template\\images\\avatar\\64-1.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\64-2.jpg",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\avatar\\64-2.jpg",
       "PackagePath": "staticwebassets\\template\\images\\avatar\\64-2.jpg"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\favicon.png",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\favicon.png",
       "PackagePath": "staticwebassets\\template\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\logo.png",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\logo.png",
       "PackagePath": "staticwebassets\\template\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\logo.psd",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\logo.psd",
       "PackagePath": "staticwebassets\\template\\images\\logo.psd"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\logo2.png",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\images\\logo2.png",
       "PackagePath": "staticwebassets\\template\\images\\logo2.png"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\index.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\index.html",
       "PackagePath": "staticwebassets\\template\\index.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\maps-gmap.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\maps-gmap.html",
       "PackagePath": "staticwebassets\\template\\maps-gmap.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\maps-vector.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\maps-vector.html",
       "PackagePath": "staticwebassets\\template\\maps-vector.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\page-login.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\page-login.html",
       "PackagePath": "staticwebassets\\template\\page-login.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\page-register.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\page-register.html",
       "PackagePath": "staticwebassets\\template\\page-register.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\pages-forget.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\pages-forget.html",
       "PackagePath": "staticwebassets\\template\\pages-forget.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\tables-basic.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\tables-basic.html",
       "PackagePath": "staticwebassets\\template\\tables-basic.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\tables-data.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\tables-data.html",
       "PackagePath": "staticwebassets\\template\\tables-data.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-alerts.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-alerts.html",
       "PackagePath": "staticwebassets\\template\\ui-alerts.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-badges.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-badges.html",
       "PackagePath": "staticwebassets\\template\\ui-badges.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-buttons.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-buttons.html",
       "PackagePath": "staticwebassets\\template\\ui-buttons.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-cards.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-cards.html",
       "PackagePath": "staticwebassets\\template\\ui-cards.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-grids.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-grids.html",
       "PackagePath": "staticwebassets\\template\\ui-grids.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-modals.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-modals.html",
       "PackagePath": "staticwebassets\\template\\ui-modals.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-progressbar.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-progressbar.html",
       "PackagePath": "staticwebassets\\template\\ui-progressbar.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-switches.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-switches.html",
       "PackagePath": "staticwebassets\\template\\ui-switches.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-tabs.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-tabs.html",
       "PackagePath": "staticwebassets\\template\\ui-tabs.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-typgraphy.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\ui-typgraphy.html",
       "PackagePath": "staticwebassets\\template\\ui-typgraphy.html"
     },
     {
-      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\widgets.html",
+      "Id": "C:\\Users\\serka\\OneDrive\\Masaüstü\\Projects\\StockControlProject\\StockControlProject.WebUI\\wwwroot\\template\\widgets.html",
       "PackagePath": "staticwebassets\\template\\widgets.html"
     },
     {

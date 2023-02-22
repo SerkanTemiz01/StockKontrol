@@ -1,0 +1,72 @@
+﻿@model StockControlProject.Domain.Entities.User
+
+@{
+    ViewData["Title"] = "AddUser";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="animated fadeIn">
+    <div class="row">
+        <div class="offset-3 col-lg-6">
+            <div class="card">
+                <div class="card-header text-center">
+                    <strong class="card-title text-center">Tedarikçi Ekleme</strong>
+                </div>
+                <div class="card-body">
+                    <!-- User -->
+                    <div id="pay-invoice">
+                        <div class="card-body">
+                           
+                            <form asp-action="AddUser" method="post" novalidate="novalidate">
+                                <div class="form-group">
+                                    <label asp-for="FirstName" class="control-label mb-1"></label>
+                                    <input asp-for="FirstName" class="form-control" />
+                                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="LastName" class="control-label mb-1"></label>
+                                    <input asp-for="LastName" class="form-control" />
+                                    <span asp-validation-for="LastName" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Address" class="control-label mb-1"></label>
+                                    <input asp-for="Address" class="form-control" />
+                                    <span asp-validation-for="Address" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Phone" class="control-label mb-1"></label>
+                                    <input asp-for="Phone" class="form-control" />
+                                    <span asp-validation-for="Phone" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Email" class="control-label mb-1"></label>
+                                    <input asp-for="Email" class="form-control" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>                   
+
+                                <div>
+                                    <button id="payment-button" type="submit" class="btn btn-lg btn-info btn-block">
+                                        <i class="fa fa-plus fa-lg"></i>&nbsp;
+                                        <span id="payment-button-amount">Tedarikçi Ekle</span>
+                                        <span id="payment-button-sending" style="display:none;">Sending…</span>
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div> <!-- .card -->
+
+        </div><!--/.col-->
+
+        
+  
+
+    </div>
+
+
+</div><!-- .animated -->
+
+
